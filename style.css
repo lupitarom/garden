@@ -1,0 +1,39 @@
+h1 {
+  font-size: 30px;
+  color: rgb(255, 0, 0);
+  font-family: couriel;
+  margin-bottom: 0px;
+}
+p1 {
+  color: rgb(0, 0, 0);
+  font-family: "Times New Roman";
+}
+#caja1 {
+  height: 5px;
+  width: 1000px;
+  background: green;
+  clear: both;
+}
+h2 {
+  font-size: 20px;
+  color: rgb(252, 0, 0);
+  font-family: couriel;
+  margin-bottom: 0px;
+}
+li1 {
+  color: blueviolet;
+}
+p3 {
+  color: blueviolet;
+}
+p4 {
+  color: blueviolet;
+}
+#caja2 {
+  height: 5px;
+  width: 1000px;
+  background: green;
+}
+img {
+  float: left;
+}
